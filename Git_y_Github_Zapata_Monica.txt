@@ -1,0 +1,17 @@
+PREGUNTAS CONSIGNA 1:
+
+1. ¿Quién inventó el sistema de control de versiones Git y por qué?
+
+Git fue creado por Linus Torvalds en 2005 para el desarrollo del kernel de Linux, con otros desarrolladores de kernel contribuyendo a su desarrollo inicial.
+El desarrollo de Git comenzó en abril de 2005, después de que muchos desarrolladores del kernel de Linux renunciaran al acceso a BitKeeper, un sistema propietario de gestión de control de fuente (SCM) que habían estado utilizando para mantener el proyecto desde 2002. El propietario de los derechos de autor de BitKeeper, Larry McVoy , había retirado el uso gratuito del producto después de afirmar que Andrew Tridgell había creado SourcePuller mediante ingeniería inversa de los protocolos de BitKeeper. El mismo incidente también estimuló la creación de otro sistema de control de versiones, Mercurial.
+
+
+2. ¿A quién pertenece actualmente Github y por qué?
+
+Github actualmente es propiedad de Microsoft y la razón de su adquisición es que Github es "El mayor repositorio de código del mundo, siendo punto de encuentro para millones de desarrolladores, y esa es precisamente la clave. Con el control de GitHub, Microsoft se hace también con la comunidad de desarrollo más nutrida del planeta"
+
+
+
+3. ¿Hay otra forma de que no sea la terminal para trabajar con Github?
+
+Sí, Github puede trabajarse desde la página, utilizando sus funcionalidades directamente desde aquí sin necesidad de recurrir a la línea de comando.
