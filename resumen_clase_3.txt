@@ -1,0 +1,23 @@
+RESUMEN CLASE 3
+
+GIT: software de control de versiones
+
+Instalacion
+
+Creación de un repositorio:
+
+1. git init // crea el repositorio
+2. git config user.name "nombre de usuario" // agrega nuestra identidad
+3. git config user.email "nombreUsuario@email.com"  // agrega nuestro email
+4. git remote add origin https://github.com/DH/RepoRemoto // apunta al repositorio remoto
+
+
+Agregar archivos:
+
+1. git add . // agrega todos los archivos
+2.  git status // seguimiento del estado de los archivos
+
+Confirmar archivos:
+
+1. git add . // agrega los archivos
+2. git commit -m "mensaje" // comitea los cambios hechos

@@ -1,0 +1,14 @@
+RESUMEN CLASE 2:
+
+Instalacion de VSC
+
+Terminal (CLI): presente en todos los sistemas operativos: darle órdenes al computador.Navegar e interactuar con ficheros.
+
+Comandos:
+ls
+mkdir
+touch
+mv
+rm
+clear
+cd 

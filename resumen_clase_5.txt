@@ -1,0 +1,16 @@
+RESUMEN CLASE 5
+
+Hardware y Software
+
+1. Componentes internos: elementos físicos inseparables
+    - Placa madre
+    - CPU
+    - Disco rígido
+    - Memoria ROM
+    - Memoria RAM
+    - Tarjeta de sonido
+    - Tarejta de video
+
+2. Componentes externos: 
+
+

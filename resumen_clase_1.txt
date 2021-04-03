@@ -1,0 +1,20 @@
+RESUMEN CLASE 1
+
+Computadora: dispositivo electrónico capaz de recibir instrucciones y ejecutarlas. Estas instrucciones son dadas por un usuario, por medio de una interfaz que presenta el sistema operativo lo cual hace más sencilla la comunicación entre el usuario y la máquina.
+
+
+Historia:
+
+Cálculo: el ábaco, China
+           Pascalina, Francia
+           Tarjetas perforadas, Francia
+
+Primer Algoritmo: Ada Lovelace (Gran Bretaña)
+Máquina de Turing: Alan Turing (Reino Unido)
+ENIAC: "Las chicas del refri" USA
+Von Neumann: Arquitectura de la computadora
+Microchips 70's
+Linux 80's
+Actualidad: inteligencia Artificial
+
+

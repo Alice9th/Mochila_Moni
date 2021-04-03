@@ -1,0 +1,17 @@
+RESUMEN CLASE 4
+
+GitHub:
+
+Creación de la cuenta
+Inicialización de un repositorio
+Subir los archivos:
+
+        git add . // agrega los archivos
+        git commit -m "mensaje" // comitea los cambios hechos
+        git push origin master // envia los cambios al repositorio remoto
+        git status // seguimiento del estado de los archivos
+
+Resolución de conflictos
+
+
+Mochila del Viajero - Primera consigna
