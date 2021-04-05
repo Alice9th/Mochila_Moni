@@ -1,0 +1,24 @@
+1. ¿Qué significan las siglas GPU?
+
+unidad de procesamiento gráfico o GPU (graphics processing unit) por sus siglas en inglés
+
+2. ¿En qué tipo de aplicaciones se especializan las GPU?
+
+Es un coprocesador dedicado al procesamiento de gráficos u operaciones de coma flotante, para aligerar la carga de trabajo del procesador central en aplicaciones como los videojuegos o aplicaciones 3D interactivas
+
+3. ¿Cómo es una GPU en comparación de tamaño físico con el CPU?
+
+La diferencia física es que la GPU está compuesta de muchos más núcleos, por lo que es mejor para tareas de procesamiento en paralelo, manejando miles de operaciones por segundo.
+Las GPUs cuentan con un mayor tamaño que las CPUs
+
+4. ¿Cómo es una GPU en comparación de potencia computacional con el CPU?
+
+Una GPU cuenta con una arquitectura en paralelo enorme que consiste de miles de núcleos más pequeños y eficaces, y que se diseñaron para resolver varias tareas al mismo tiempo.
+.
+Las GPU modernas proporcionan una potencia de procesamiento, ancho de banda de memoria y eficiencia superiores a las de su CPU. Son 50–100 veces más rápidos en tareas que requieren múltiples procesos paralelos, como el aprendizaje automático y el análisis de big data.
+
+5. ¿Podrías nombrar otra diferencia además de las ya nombradas entre CPU y GPU?
+
+
+La diferencia es que la CPU es un procesador de propósito general, con el que podemos hacer cualquier tipo de cálculo, mientras que la GPU es un procesador de propósito específico: está optimizada para trabajar con grandes cantidades de datos y realizar las mismas operaciones, una y otra vez.
+

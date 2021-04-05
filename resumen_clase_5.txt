@@ -3,14 +3,27 @@ RESUMEN CLASE 5
 Hardware y Software
 
 1. Componentes internos: elementos físicos inseparables
-    - Placa madre
-    - CPU
-    - Disco rígido
-    - Memoria ROM
-    - Memoria RAM
-    - Tarjeta de sonido
-    - Tarejta de video
+    - Placa madre: todos los dispositivos se conectan a ella
+    - CPU: "cerebro" interpreta y ejecuta las instrucciones (math/log)
+    - Disco rígido:
+    - Memoria ROM: almacena info de forma permanente (conf inicial/     arranque y funcionamiento básico)
+    - Memoria RAM: almacena info de forma temporal (contenido se elimina la apagar la PC)
+    - Tarjeta de sonido: se conecta a la placa madre. Permite reproducir sonidos y recibirlos.
+    - Tarejta de video: se conecta a la placa madre. Muestra imagenes en el monitor.
 
-2. Componentes externos: 
+2. Componentes externos: Elementos que no son prescindibles
+
+Dispositivos periféricos:
+- Introducen/extraen datos
+- Comunicación
+- Almacenamiento
+
+Hay 3 tipos:
+
+1. Periféricos de entrada: ingreso datos
+2. Periféricos mixtos: ingreso/egreso de datos
+3. Periféricos de salida: egreso de datos
+
+
 
 
