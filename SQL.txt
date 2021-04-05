@@ -1,0 +1,35 @@
+¿Qué es SQL?
+
+SQL es un lenguaje de computación para trabajar con conjuntos de datos y las relaciones entre ellos. Los programas de bases de datos relacionales, como Microsoft Office Access, usan SQL para trabajar con datos.
+
+
+¿Qué sentencias SQL existen?
+
+SELECT se utiliza para consultar datos.
+DISTINCT sirve para eliminar los duplicados de las consultas de datos.
+WHERE se utiliza incluir las condiciones de los datos que queremos consultar.
+AND y OR se utilizan para incluir 2 o más condiciones a una consulta.
+ORDER BY se utiliza para ordenar los resultados de una consulta.
+INSERT se utiliza para insertar datos.
+UPDATE se utiliza actualizar o modificar datos ya existentes.
+DELETE se utiliza borrar datos.
+
+¿Cómo creamos una base de datos? ¿y una tabla?
+
+En MySQL Workbench: 
+Haga clic en la pestaña Archivo, en Nuevo y luego, en Base de datos en blanco.
+Escriba un nombre de archivo en el cuadro Nombre de archivo. ...
+Haga clic en Crear.
+
+CREATE TABLE + nombre de la tabla + columnas + valores + constricciones
+
+
+¿Qué sucede si nos equivocamos al crear la estructura de una tabla?
+
+Podemos alterarla con ALTER TABLE
+
+¿Cómo se insertan datos en una tabla? ¿Y borran?
+
+Para insertar datos utilizamos INSERT
+
+Para borrar DELETE pero debemos utilizar WHERE y especificar qué se va a borrar, porque de lo contrario podríamos borrar todos los valores de la tabla
