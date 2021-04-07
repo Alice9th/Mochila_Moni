@@ -1,0 +1,40 @@
+MEMORIAS
+
+Memoria principal: 
+
+- Almacenar datos o información de forma temporal.
+- El procesador puede acceder directamente a los datos almacenados.
+
+Tipos:
+
+- ROM: Es el acrónimo de read only memory o memoria de solo lectura. Como el nombre lo sugiere, solo puede ser leída, no escrita. Guarda las instrucciones necesarias para que la computadora pueda iniciarse.
+
+- Caché: La memoria caché se sitúa entre la CPU y la memoria RAM. La CPU copia en ella los datos más relevantes que va a utilizar de la memoria RAM para acceder a ellos más rápidamente. Memoria intermedia.
+
+- RAM: Es el acrónimo de read only memory o memoria de solo lectura. Como el nombre lo sugiere, solo puede ser leída, no escrita. Guarda las instrucciones necesarias para que la computadora pueda iniciarse.
+
+
+
+Memoria secundaria: 
+- Se refiere a los dispositivos de almacenamiento secundario, donde se puede almacenar información de manera permanente
+- El procesador no puede acceder a los datos de forma direct
+
+La memoria primaria tiene un mayor costo que la memoria secundaria.
+
+
+RAM: temporalmente almacena. La información almacenada en este tipo de memoria se pierde cuando se desconecta la alimentación del PC o del portátil. Se conoce generalmente como memoria principal o memoria temporal o volátil del sistema informático. Es el lugar donde se almacenan temporalmente tanto los datos como los programas que la CPU está procesando, o va a procesar, en un determinado momento.
+
+Caché: memoria veloz, pero de poca capacidad
+
+Tecnologia de Dispositivos:
+
+1. Magnética (Ej HDD)
+
+2. óptica (CD, DVD, Blue-Ray)
+
+3. Estado sólido (pendrives, SSD)
+
+Unidades de medida:
+
+unidad min: bit
+unidad max: Yotabyte
