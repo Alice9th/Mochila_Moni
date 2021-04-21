@@ -1,0 +1,66 @@
+SISTEMAS OPERATIVOS
+
+Soporte lógico que controla el funcionamiento del equipo físico.
+
+Conjunto de programas y funciones que le permiten al usuario acceder al sistema
+
+FUNCIONES
+
+Gestiona la RAM
+
+Ejecuta aplicaciones
+
+Asigna recursos
+
+Administra la CPU
+
+Dirige las autorizaciones de uso para el usuario
+
+Administra archivos
+
+TIPOS DE SISTEMAS OPERATIVOS
+
+1. Segun usuario: Multiusuario, Monousuario
+2. Gestión de tareas: multitarea, monotarea
+3. Gestión de recursos: centralizado, distribuído
+
+Generaciones:
+
+Generación cero: década de 1940
+
+Primera Generación: 1945-1955
+
+Segunda Generación: 1955-1965
+
+Tercera Generación: 1965-1970
+
+Cuarta Generación: 1980-actualidad
+
+LLAMADAS AL SISTEMA:
+
+Kernel: capa fundamental del sistema operativo. Encargado de comunicar y administrar recursos de la PC (RAM o procesador)
+
+TIPOS:
+
+1. Monolítico: más veloz, 70% del kernel no utilizado, si falla algo todo falla.
+
+2. Microkernel: más lento, pero más fácil de agregar nuevas funcionalidades. Requiere más líneas de código.
+
+3. Kernel híbrido: microkernel con código "no escencial", más agil que el microkernel, compatible con varios dispositivos.
+
+4. Nanokernel: código más reducido pero más difícil de crear, todos los servicios se comunca cono paso de mensajes, fácil de modificar el OS
+
+Las llamadas al sistema son la forma en la que el programa solicita una acción al OS (punto de enlace de usuario y el modo privilegiado: permite a las apps utilizar recursos de hardware)
+
+*El SO autoriza y adm todas las acciones potencialmente peligrosas
+
+LAs llamadas se clasifican en:
+
+1. Gestion de control
+2. Gestion de archivos
+3.Gestion de dispositivos
+4. Gestion de info
+5. Comunicación de procesos
+
+
+
