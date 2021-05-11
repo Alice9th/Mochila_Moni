@@ -1,0 +1,96 @@
+LENGUAJES DE PROGRAMACION
+
+Alto Nivel: se encuentran más cercanos al lenguage natural que al de máquina. Más rápido. Ej: JS
+
+Bajo Nivel: Para isntrucciones muy específicas. Eficiencia en uso de recursos.
+
+Los lenguajes de programacion cambian con el tiempo (evolucionan)
+
+TIPADO DE LENGUAJES Y FRAMEWORKS:
+
+Tipados fuertes y dpebiles: se distinguen si permiten violaciones de los tipos de datos una vez declarados.
+
+Débil: no se indica la mayoria de veces el tipo de variable.
+Ventaja: más rápido de desarrollar
+Desventaja: se pueden cometer muchos errores más si no se tiene cuidado
+
+Fuerte: obliga a indicar el tipo de dato al declarar la variable, el cual no puede ser cambiado una vez definida esta
+Ventaja: código más expresivo, menos errores
+Desventaja: más estricto, más código
+
+Estático:realiza comprobacion de tipificacion durante la compilacion y y no durante la ejecución.
+Permite que la ejecución sea más eficiente y segura.
+
+Dinámico: Comprobacion de tipificacion se realiza durante su ejecución. Es más flexible, se ejecuta más lento y es propenso a errores.
+
+
+FRAMEWORKS:
+
+EStructuras previas/esqueletos 
+Son como plantillas y simplifican la realizacion de una tarea.
+
+PARADIGMAS DE PROGRAMACION:
+
+60's: programación era muy estructurada: código se ejecutaba línea por línea. Muy complejo
+
+Modelado de naves: cada objeto tenía estado interno y funciones, nace el lenguaje SIMULA, nace el paradigma de programación orientado a objetos.
+
+Forma de pensar bajo un modelo pre-establecido: paradigma
+
+Tipos:
+
+1. Paradigma estructurado: una instruccion a la vez. Muy usado en desarrollo de sistemas
+
+2. Paradigma de POO: el código puede agruparse para representar una entidad que interprete mensajes. Utiliza abstracciones y crea entidades
+
+3. Paradigma funcional:se basa en funciones matemáticas. Tiene como propiedad: inmutabilidad (devuelve el mismo valor)
+
+4. Paradigma lógico: utiliza reglas lógicas para consultar al sistema.
+
+5. Paradigma de programacion con lenguaje específico de dominio: lenguajes que resuelven problematicas super específicas.
+
+6. Multiparadigma: dar soluciones en distintos paradigmas.
+
+PROGRAMACION IMPERATIVA: indica a la computadora qué hacer y en qué secuencia, instrucciones sucesivas.
+- Programacion EStructurada
+- Programacion OO: utiliza objetos y la interaccion entre ellos para resolver problemas
+
+PROGRAMACION MULTIPARADIGMA: utilizan más de un paradigma
+
+PROGRAMACION DECLARATIVA: describe el resultado final que se busca, qué debe realizar el programa
+- Programacion Lógica
+- Programacion Funcional
+
+PROGRAMACION CON LENGUAJE ESPECÍFICO DE DOMINIO: Engloba los lenguajes desarrollados para resolver problema específico.
+
+
+DEL CÓDIGO AL EJECUTABLE:
+
+Código máquina: Arquitectura de CPU y OS similar. Si no, el código ejecutable no funcionaría
+
+Compilacion: del código que escribimos a uno que la maquina lo entienda: traducción. Lo pasa a código máquina
+
+Para solucionar:
+
+Máquinas Virtuales: ejecutable (código maquina virtual). Realiza traduccion al sistema que se necesite.
+Es portable, pero se ejecuta en este intermediario.
+
+Intérprete: análisis linea por linea del código fuente. Haciendo este independiente.
+El proceso es lento.
+
+No se puede elegir el tipo de código, porque depende del lenguaje de programación.
+
+Código fuente:
+Colección de instrucciones de computadora escritas en lenguaje que entiendan humanos
+
+Código máquina: secuencia de sentencias en lenguaje máquina o binario. Resultado después de que el compilador convierta el código fuente en un
+lenguaje que entienda el procesador
+
+Compilador: una aplicación que traduce (compila) el código fuente en uno que entienda el procesador. Se almacena como un archivo ejecutable
+
+Intérprete: traduce código fuente línea a línea y lo ejecuta directamente. Más rápido que un compilador en traducción pero la ejecución es lenta y necesita
+mucha memoria
+
+
+
+ 

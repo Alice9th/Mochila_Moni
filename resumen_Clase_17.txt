@@ -1,0 +1,19 @@
+Hacking y Cracking
+Un sistema de información es un conjunto de elementos que están orientados al tratamiento y la administración de los datos para obtener información en base a ellos.
+
+
+Un hacker es una persona a la cual le apasiona el conocimiento, descubrir o aprender nuevas cosas e indagar más sobre ellas. Toda aquella persona que hackea cualquier tipo de sistema descubre sus vulnerabilidades con el objetivo de poder encontrar alguna herramienta que la minimice o suprima —en el caso de un white hat— o utilizar esta vulnerabilidad a su favor —en el caso de un black hat— y esto lo logra en base a su conocimiento.
+
+
+Y por qué no nombrar a aquellas personas que han sido hackers, por ejemplo, Rene Favaloro, un hacker en medicina, al descubrir una vulnerabilidad en el sistema cardiaco y realizar el primer bypass cardiaco.
+
+
+Tipos de hacker
+Sombrero blanco (white hats): utilizan los conocimientos en informática y seguridad informática con el fin de defender los sistemas de información.
+Sombrero gris (gray hats): tienen conocimientos tanto de la parte defensiva como ofensiva y pueden trabajar en cualquiera de los ámbitos.
+Sombrero negro (black hats): tienen conocimientos informáticos y recurren a hacer actividades maliciosas o ilegales. También conocidos como crackers.
+Las diferencias entre hacker y cracker
+El hacker es un experto en varias ramas técnicas relacionadas con las tecnología de información de las comunicaciones, como son: programación, redes, sistemas operativos e ingeniería de software.
+
+
+El cracker es también un experto, pero además es quien viola la seguridad de un sistema informático con fines ilícitos o con un objetivo deshonesto y no ético.

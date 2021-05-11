@@ -1,0 +1,52 @@
+REDES
+
+Conjunto de dispositivos independientes capaces de comunicarse electrónicamente entre sí., compartir recursos e intercambiar info de todo tipo.
+
+CLASIFICACION:
+
+1. Relacion a extension geográfica:
+- LAN
+- MAN
+- WAN
+
+2.Por método físico de conexión:
+- Medios guiados: constituidos por cables que conducen las señales desde un extremo a otro.
+Vel de transmision depende de las distancias terminales
+
+-Redes de medios no guiados: transmision y recpecion se lleva a cabo por antenas. Enegría electromagnética.
+
+3.EN relacion al grado de autenticación:
+-Red privada
+-Red pública
+
+4.Por grado de difusión:
+-INtranet
+-Extranet
+-Internet
+
+
+VELOCIDAD DE INTERNET:
+
+Internet: red global donde es posible acceder a casi cualqueir tipo de info mediante comunicacion entre personas/dispositivos
+
+CONCPETOS:
+
+Velocidad: tiempo en el que se transmiten los datos.
+Seguridad: Evitar que intrusos accedan a la info transmitida
+COnfiabilidad: mide la relacion de fallos de transmision
+EScalabilidad: evita que el servicio no decaiga si hay más usuarios
+Disponibilidad: Capacidad de la red para estar siempre funcionando
+
+Bajada de datos- Subida de datos - Paquetes (bloques en los que se divide la info para viajar por la red)
+
+ARMANDO NUESTRA PROPIA RED:
+
+Router: nos identidica y permite interactuar con los demás dispositivos conectados
+
+Dirección IP: número único de identificación.
+
+Puerta de enlace: router, administra la red
+
+IP DINÁMICA: ROuter asigna IP
+
+IP ESTÁTICA: usuario define IP desde el OS

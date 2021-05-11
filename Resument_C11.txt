@@ -1,0 +1,89 @@
+ESCRITORIOS REMOTOS:
+
+- TeamViewer
+- AnyDesk
+
+
+MAQUINAS VIRTUALES
+
+OS dentro de otro OS
+SOftware capaz de contener en su interior un OS. haciendole creer que es uno de verdad
+
+TIPOS:
+
+SISTEMAS: emula computadora completa
+
+
+PROCESOS: emula una aplicación, un sólo proceso. Independiente del OS donde se ejecute
+
+
+Se crea en una capa de software: Hypervisor (se instala en la parte física de la memoria: asigna recursos)
+Hay dos tipos:
+
+Hypervisor 1: más utilizado, más rápido, seguro, corre directamente de la parte física de la PC.
+Son relativamente simples, no ofrecen muchas funcionalidades por sí mismos.
+Una de las mejores características de los hipervisores de tipo 1 es que permiten la asignación excesiva de recursos físicos.
+El hipervisor Tipo 1 se conoce como el hipervisor «bare-metal.  Esto significa que se ejecuta directamente en el hardware físico de la máquina host; no tiene que cargar un sistema operativo subyacente antes de eso.
+Debido al hecho de que los hipervisores tipo 1 tienen acceso directo al hardware subyacente (y no a otros sistemas operativos y controladores de dispositivos con los que contentar), este tipo de hipervisor se considera el mejor rendimiento y el más eficiente para la informática empresarial.
+
+Estos son los hipervisores tipo 1 más comunes :
+
+VMware vSphere con ESX / ESXi como parte del paquete.
+Microsoft Hyper-V
+KVM (Máquina Virtual Basada en Kernel)
+
+Hypervisor 2: más lento, corre sobre el OS.
+Este tipo de hipervisor se ejecuta dentro de un sistema operativo de una máquina host física.
+En este caso se tiene:
+
+Una máquina física.
+Un sistema operativo instalado en el hardware (Windows, Linux, MacOS).
+Un software de hipervisor de tipo 2 dentro de ese sistema operativo.
+Las instancias reales de máquinas virtuales invitadas.
+Los hipervisores de tipo 2 generalmente se encuentran en entornos con una pequeña cantidad de servidores.
+Lo que los hace convenientes es que no necesita una consola de administración en otra máquina para configurar y administrar máquinas virtuales. 
+
+muchos hipervisores de tipo 2 son gratuitos en sus versiones básicas y proporcionan funcionalidades suficientes:
+Oracle VM VirtualBox
+VMware Workstation Pro / VMware Fusion
+Windows Virtual PC
+
+Fuente: https://www.hostdime.com.ar/blog/hipervisores-tipo-1-y-tipo-2-lo-que-los-hace-diferentes/
+
+Se pueden crear tabntas como queramos
+
+VENTAJAS
+
+Se pueden probar OS
+Ejecutar programas antiguos
+Ejecutar apps de otros OS
+Entorno de seguiridad
+En SERVIDORES (aprovechamiento del equipo físico)
+
+
+DESVENTAJAS
+
+Menos eficientes (software se ejecuta sobre el OS de la mauqina cirtual, acceden al hardware de forma indirecta), son de procesos más lentos
+Rendimiento se ve afectado si hay varias MV y la maquina no cuenta con los recursos
+
+CONTENEDORES:
+
+empaquetacion de software
+Es rápido
+Requisitos de infraestructura no están vinculados al entorno
+Reduce tamaño de desarrollo
+Aumenta la productividad
+Gestion Múltiple
+ISolación: entornos aislados
+
+
+ORQUESTADORES:
+
+SISTEMAS DE AUTOMATIZACIÓN DE DESPLIEGUE, ajustan escala, y manejan las apps en contenedores.
+
+EJ: Kubernets, Docker Swarm, 
+
+
+
+
+
