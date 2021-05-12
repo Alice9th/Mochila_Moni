@@ -1,0 +1,52 @@
+Tipos de Amenazas
+
+Malware: malicious software: software que tienen por objetivo infiltrar/dañar un sistema de información
+
+**se oculta**
+
+Virus: permanece en el sistema y se copia a sí mismo.Objetivo: destruir o inhabilitar archivos/programas.
+La mayoría se adhiere a archivos ejecutables.
+Son de poca infección: sólo se replican dentro del mismo dispositivo
+
+Troyanos: Estructura que carga cosas ocultas. Programas sin licencia que resultan dañinos, requieren acción del usuario (ejecucion) ya que no se duplica a si mismo. 
+Crean backdoors para que alguien más los utilice: para que el dispositivo sea controlado de forma remota.
+Comunmente introducen spam o como servidor proxy apra ataques
+
+Adwares. bombardean el dispositivo con publicidad.
+No son dañinos, vienen generalmente dentro de troyanos
+
+Gusanos: Se copia a si mismo y utiliza la red para copiarse a otras máquinas (agujeros de seguridad:vulnerabilidades).
+Mayor capacidad de infección
+Objetivo: se replican a si mismos hasta saturar el sistema
+
+Spyware: software espia. No daña dispositivos pero roba info del sistema. Objetivo: permanecer oculto. Puede acceder a cam y microfono.
+Pueden ingresar por troyanos o instalados
+
+**Malwares atacan el OS: se reinstala el OS y desaparecen**
+
+Rootkits: conjunto de software. Dirigidos al firmware o programas de usuario, teniendo acceso al sistema en modo sistema o kernel: permite realizar modificaciones a los procesos internos del dispositivo
+Se enconden de los antivirus
+
+Botnets: red robot de equipos zombies, puesto por un atacante para controlarlas todas al mismo tiempo.
+Sirven para crimeware: crimenes digitales
+Principales propagadores: troyanos
+
+RANSOMWARE:
+secuestran info (encriptan) y piden rescate.
+
+PROTECCION DE LA INFO:
+
+Principios de la informacion:
+1. Confidencialidad: info disponible solo para las personas con acceso y bloqueada para terceros
+2. Integridad: info completa
+3. Disponibilidad: DoS attack (info debe ser accesible cuando se desee)
+
+Proteccion de la Info:
+Garantizando las 3 dimensiones anteriores. Para esto se toman:
+
+1. Medidas preventivas:
+acciones que evitan problemas
+
+2.Medidas reactivas:
+Acciones para resolver problemas ya ocasionados
+

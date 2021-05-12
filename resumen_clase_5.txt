@@ -24,6 +24,12 @@ Hay 3 tipos:
 2. Periféricos mixtos: ingreso/egreso de datos
 3. Periféricos de salida: egreso de datos
 
+Comunicacion entre dispositivos:
+
+Puente Sur: conecta bus y administra periféricos
+
+Puente Norte: conecta con CPU, GPU, RAM
+
 
 
 
