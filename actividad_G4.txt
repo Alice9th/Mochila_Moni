@@ -1,0 +1,16 @@
+Grupo 4
+● Empresa ya consolidada que se dedica a brindar servicios informáticos, la mayoría de
+sus empleados trabajan en remoto, pero hay algunos que van on site, necesitan una
+intranet más segura, y la información confidencial de la empresa tiene buena seguridad
+lógica pero muy poca física, aunque igualmente desean tener asesoramiento en
+seguridad lógica, no tienen problemas en invertir dinero pero sus empleados se
+resisten al cambio de nuevas restricciones. Poseen una página web donde brindan sus
+servicios y los clientes pueden contactarse a través de la misma.
+
+
+1- Mejorar la seguridad física (Hacer backups, Ups, sistemas redundantes)
+2- Mejorar la seguridad lógica (Asesoramiento, capacitaciones, reuniones)
+3- Seguridad pasiva (Antivirus, Backups)
+4- Seguridad activa (Contraseñas seguras e encriptación de datos, manejo de autenticación para trabajo remoto)
+5- Contratar PenTester para revisar constantemente las vulnerabilidades del sistema
+6- Seguridad Web (Https, Seguridad en la página Web)

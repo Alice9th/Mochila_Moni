@@ -1,0 +1,47 @@
+Fraude y delito informático
+Un código ético constituye una declaración expresa de los valores y principios que deben guiar la conducta de todos los profesionales que integran y colaboran con una Asociación para el desarrollo responsable de su actividad profesional, tanto en sus relaciones con sus empleadores, empleados, clientes, proveedores, instituciones públicas y privadas, colaboradores externos y la sociedad en general.
+
+
+Generalmente se decide adoptar y promover el uso del Código de Ética y Práctica Profesional desarrollado por las asociaciones internacionales ACM e IEEE Computer Society, persiguiendo con ello la compatibilidad de las prácticas éticas de las principales sociedades relacionadas con la Ingeniería del Software y Tecnologías de Desarrollo de Software a nivel.
+
+Principios de la Ética Profesional, ¿cómo actúan los ingenieros de software?
+Los ingenieros de software actúan en muchos ámbitos: sociedad, cliente y empresario, producto, profesión, juicio, administración, colegas y en lo personal.
+
+
+Pilares	Descripción
+Sociedad	De forma congruente con el interés social.
+Cliente y Empresario	Conciliando los mejores intereses de sus clientes y empresarios, congruentemente con el interés social.
+Producto	Asegurando que sus productos y modificaciones correspondientes cumplen los estándares profesionales más altos posibles.
+Profesión	Incrementando la integridad y reputación.
+Juicio	Manteniendo la integridad e independencia en su juicio profesional.
+Administración	Suscribiendose a un enfoque ético en la administración del desarrollo y mantenimiento de software.
+Colegas	Apoyando a sus colegas.
+Personal	Aprendiendo sobre la práctica profesional.
+
+
+¿Qué es la industria del software?
+La industria del software es la industria que involucra la investigación, desarrollo, distribución y comercialización de software.
+
+
+¿En qué forma, este sector, abre nuevas oportunidades para el desarrollo económico y social de América Latina?
+En una economía global cada vez más fundada en la información y el conocimiento, el software es una herramienta decisiva para aumentar la productividad porque incorpora tecnologías y soluciones para los tipos de problemas más variados.
+
+
+La producción de software y servicios es además una actividad económica cada vez más relevante, capaz de crear empleos calificados y generar divisas con la exportación de productos y servicios a distancia. Ello es posible a partir de los avances tecnológicos en las áreas de comunicaciones y arquitectura de sistemas de la última década.
+
+
+En las últimas dos décadas, en los países de América Latina, se han realizado importantes inversiones en educación superior e infraestructura de comunicaciones. Con la mayor disponibilidad de factores de producción a costos competitivos internacionalmente, surgen oportunidades para que los países de la región participen de una industria dinámica e intensiva en información y conocimiento.
+
+
+Por ahora, el desarrollo de la industria de software y servicios de informática en América Latina ha ocurrido de forma esencialmente espontánea, considerando que hace muy poco tiempo se pusieron en marcha políticas públicas de estímulo al sector.
+
+
+Ningún país puede aspirar a un rol importante en la industria global de software y servicios de informática sin fuertes inversiones en la formación de recursos humanos. El eje de estas políticas debe ser no solo el aumento de la oferta y el mejoramiento de calidad de los cursos técnicos superiores, sino que es necesario también preparar y motivar a los jóvenes para el estudio de tecnologías de información y ampliar la base potencial de profesionales.
+
+Propiedad intelectual
+¿Qué es una licencia de software?
+Se trata de un contrato que existe entre aquel que posee los derechos de autoría y la entidad o persona que está adquiriéndolo.
+
+Se definen con certeza los derechos y obligaciones de ambas partes; también, en algunos casos se suele establecer el plazo de duración que tendrá dicha licencia, ya que pueden ser permanentes o limitadas.
+
+Ahora veamos algunos de los tipos de licencias que existen.
